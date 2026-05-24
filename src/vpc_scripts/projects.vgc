@@ -20,7 +20,6 @@ $Project "client"
     "game\client\client_hl2.vpc"		[$HL2]
     "game\client\client_episodic.vpc"		[$EPISODIC]
     "game\client\client_lostcoast.vpc"		[$LOSTCOAST]
-	"game\client\client_jjk.vpc"			[$JJK]
     //BDS PROJECTS GO HERE
 	"game\client\client_survivor2.vpc"		[$SURVIVOR2]
 	"game\client\client_quiver.vpc"			[$QUIVER]
@@ -62,7 +61,6 @@ $Project "server"
     "game\server\server_hl2.vpc"		[$HL2]
     "game\server\server_episodic.vpc"		[$EPISODIC]
     "game\server\server_lostcoast.vpc"		[$LOSTCOAST]
-	"game\server\server_jjk.vpc"			[$JJK]
     //BDS PROJECTS GO HERE
 	"game\server\server_survivor2.vpc"		[$SURVIVOR2]
 	"game\server\server_quiver.vpc"			[$QUIVER]
@@ -75,7 +73,6 @@ $Project "launcher_main"
     "launcher_main\launcher_main_mod_hl2.vpc" [$HL2]
     "launcher_main\launcher_main_mod_episodic.vpc" [$EPISODIC]
     "launcher_main\launcher_main_mod_lostcoast.vpc" [$LOSTCOAST]
-"launcher_main\launcher_main_mod_jjk.vpc" [$JJK]
     //BDS PROJECTS GO HERE
     "launcher_main\launcher_main_mod_survivor2.vpc" [$SURVIVOR2]
 	"launcher_main\launcher_main_mod_quiver.vpc" [$QUIVER]
