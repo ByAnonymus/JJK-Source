@@ -15,7 +15,7 @@ $Project "captioncompiler"
 
 $Project "client"
 {
-	"game\client\client_tf.vpc"			[$TF]
+	"game\client\client_jjk.vpc"			[$JJK]
 	"game\client\client_hl2mp.vpc"		[$HL2MP]
     "game\client\client_hl2.vpc"		[$HL2]
     "game\client\client_episodic.vpc"		[$EPISODIC]
@@ -56,7 +56,7 @@ $Project "height2normal"
 
 $Project "server"
 {
-	"game\server\server_tf.vpc"			[$TF]
+	"game\server\server_jjk.vpc"			[$JJK]
 	"game\server\server_hl2mp.vpc"		[$HL2MP]
     "game\server\server_hl2.vpc"		[$HL2]
     "game\server\server_episodic.vpc"		[$EPISODIC]
@@ -68,8 +68,8 @@ $Project "server"
 
 $Project "launcher_main"
 {
+	"launcher_main\launcher_main_mod_jjk.vpc" [$JJK]
 	"launcher_main\launcher_main_mod_hl2mp.vpc" [$HL2MP]
-	"launcher_main\launcher_main_mod_tf.vpc" [$TF]
     "launcher_main\launcher_main_mod_hl2.vpc" [$HL2]
     "launcher_main\launcher_main_mod_episodic.vpc" [$EPISODIC]
     "launcher_main\launcher_main_mod_lostcoast.vpc" [$LOSTCOAST]

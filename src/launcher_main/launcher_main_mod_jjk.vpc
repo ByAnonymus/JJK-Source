@@ -1,4 +1,4 @@
-$Macro OUTBINNAME "mod_tf"
+$Macro OUTBINNAME "mod_jjk"
 
 $Conditional "MOD_LAUNCHER" "1"
 
@@ -12,11 +12,11 @@ $Configuration
 	}
 }
 
-$Project "Launcher Main (Mod TF)"
+$Project "Launcher Main (Mod JJK)"
 {
     $Folder "Resource Files" [$WINDOWS]
     {
-        $File   "launcher_main_mod_tf.rc"
-        $File   "res\mod_tf.ico"
+        $File   "launcher_main_mod_jjk.rc"
+        $File   "res\mod_jjk.ico"
     }
 }
